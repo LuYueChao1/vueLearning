@@ -1,0 +1,142 @@
+
+.main-header[data-v-0875ba7c] {
+  text-align: center;
+}
+.main-header h1[data-v-0875ba7c] {
+  font-size: 100px;
+  color: rgba(175,47,47,0.4);
+  font-weight: 100;
+  margin: 20px;
+}
+
+#footer {
+  margin-top: 40px;
+  text-align: center;
+  color: #bfbfbf;
+  font-size: 10px;
+  text-shadow: 0 1px 0 #808080;
+}
+
+
+.todo-item[data-v-366f91ba] {
+  margin-top: 5px;
+  background: #fff;
+  height: 35px;
+}
+.todo-item>label[data-v-366f91ba] {
+  font-size: 20px;
+  display: inline-block;
+  margin-top: 4px;
+  margin-left: 3px;
+}
+.completed>label[data-v-366f91ba] {
+  font-size: 20px;
+  display: inline-block;
+  margin-top: 4px;
+  margin-left: 3px;
+  text-decoration: line-through;
+}
+.destroy[data-v-366f91ba] {
+  float: right;
+  margin-right: 3px;
+  margin-top: 10px;
+  background: none;
+  border: none;
+}
+
+
+.left[data-v-12956418] {
+  float: right;
+  margin: 13px 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  background: #fff;
+  text-align: center;
+  padding-top: 7px;
+  height: 30px;
+  display: inline-block;
+}
+.active[data-v-12956418] {
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 13px 8px;
+  background: #fff;
+  text-align: center;
+  padding-top: 7px;
+  height: 30px;
+  display: inline-block;
+}
+.clear[data-v-12956418] {
+  float: right;
+  margin: 13px 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  background: #fff;
+  text-align: center;
+  padding-top: 7px;
+  height: 30px;
+  display: inline-block;
+}
+.completed[data-v-12956418] {
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 13px 8px;
+  background: #fff;
+  text-align: center;
+  padding-top: 7px;
+  height: 30px;
+  display: inline-block;
+}
+.all[data-v-12956418] {
+  margin: 13px 8px;
+  background: #fff;
+  text-align: center;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 7px;
+  height: 30px;
+  display: inline-block;
+}
+
+
+.real-app[data-v-52863375] {
+  width: 600px;
+  margin: 0 auto;
+  box-shadow: 0 0 5px #666;
+}
+.add-input[data-v-52863375] {
+  width: 99.5%;
+  height: 28px;
+  margin-top: 3px;
+}
+
+
+#test[data-v-1b19391a] {
+  color: #f00;
+}
+#app[data-v-1b19391a] {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+#cover[data-v-1b19391a] {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #999;
+  opacity: 0.9;
+  z-index: -1;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
